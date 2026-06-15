@@ -1,0 +1,6 @@
+{
+  "name": "LangGraph Visualizer",
+  "description": "An interactive utility to retrieve, parse, and visualize LangGraph workflow diagrams from HTML snippets or custom server endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
